@@ -54,7 +54,7 @@ export default {}
   background-color: #fff;
   position: absolute;
   left: 50%;
-  transform: translate(-50%, -40%);
+  transform: translate(-50%, -50%);
   img {
     width: 100%;
     height: 100%;
